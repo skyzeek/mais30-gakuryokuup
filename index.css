@@ -1,0 +1,17 @@
+body{
+    background-color: purple;
+}
+h1{
+    font-size: 100px;
+    color: skyblue;
+}
+
+p{
+    color: black;
+    font-size: 35px;
+}
+
+a{
+    font-size: 35px;
+    color: plum;
+}
